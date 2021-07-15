@@ -67,9 +67,35 @@ Especificos
 
 **4.1.-Cálculos realizados**
 
-![2](https://user-images.githubusercontent.com/75336529/125840283-b1a2e4ea-cd7d-43a0-94bb-57c40055a3b3.png)
+![2](https://user-images.githubusercontent.com/75336529/125846305-ef32650f-e898-44ae-8d2f-092df1c53b29.png)
 
-![3](https://user-images.githubusercontent.com/75336529/125842201-bc82030d-71ba-4857-9b1f-938179f75cfb.png)
+Hacemos que la fuente de 20v se cortocircuite.
+
+![3](https://user-images.githubusercontent.com/75336529/125846309-97214796-75cb-4911-93ae-dc987f3b33f3.png)
+
+Encontramos una recistencia equivalente entre R1 y R2
+
+![c1](https://user-images.githubusercontent.com/75336529/125863600-41e6cb66-e8a8-49e4-a2a4-f22f0d9fd70e.png)
+
+![5](https://user-images.githubusercontent.com/75336529/125853091-8c9fd43a-6426-48bf-8714-2b369b5c0c4f.png)
+
+Utilizamos el metodo de mallas para resolver.
+
+![6](https://user-images.githubusercontent.com/75336529/125856872-3d161f72-4b16-49c4-a599-2165476b93e9.png)
+
+![c2](https://user-images.githubusercontent.com/75336529/125863601-43c25a2c-b4ed-4a58-982e-b1cee4f855bc.png)
+
+Calculamos la corriente Ix con el resultado de mallas.
+
+![c3](https://user-images.githubusercontent.com/75336529/125863596-b4e89178-2c12-4c4f-8220-186b84e26bc6.png)
+
+Calculamos el voltaje VA con los resultados de mallas
+
+![c4](https://user-images.githubusercontent.com/75336529/125863598-02483a6e-5000-42c0-8930-817d94d57420.png)
+
+Hacemos que la fuente de 12v se cortocircuite.
+
+![4](https://user-images.githubusercontent.com/75336529/125846311-b48011f8-41b7-4dd2-889c-a8a9e3d63585.png)
 
 **5.-VIDEO**
 
