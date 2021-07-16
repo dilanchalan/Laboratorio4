@@ -27,10 +27,13 @@ Ing. Darwin Alulema
 
 General
 
-
+Evaluar la eficazia del metodo de superposicion al resolver circuitos electricos.
 
 Especificos
 
+Identificar fuentes dependientes e independientes en los circuitos electricos.
+
+Calcular el tiempo que lleva hacer el metodo de superposicion.
 
 **2.-MARCO TEÓRICO**
 
@@ -145,6 +148,8 @@ Concluimos que el teorema de superposición es fundamental entenderlo para el an
 Es claro que al realizar la simulación del circuito hemos llegado a la conclusión de que al utilizar el teorema podemos trabajar con circuitos con más de una fuente de carga conectada a él.
 
 Aprendimos que para realizar este análisis debemos seguir los pasos estudiados y al final hacer la suma algebraica de nuestras fuentes.
+
+El metodo es demoroso de realizar por lo que tendriamos que aplicar primero superposicion y despues aplicar otro metodo de resolucion para los circuitos equivalentes que obtendremos al realizar este metodo por lo que se hace un poco mas largo que aplicar directamente calculo de nodos o calculo de mallas.
 
 **7.-BIBLIOGRAFIA**
 
