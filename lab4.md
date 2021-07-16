@@ -33,6 +33,8 @@ Especificos
 
 **2.-MARCO TEÓRICO**
 
+![diagrama](https://user-images.githubusercontent.com/75336529/125874368-442f78b4-de1c-4c5a-b6ed-546ae0fbeba8.jpeg)
+
 **3.-EXPLICACIÓN DEL PROCEDIMIENTO**
 
 **3.1.-Materiales y equipo**
@@ -83,19 +85,33 @@ Utilizamos el metodo de mallas para resolver.
 
 ![6](https://user-images.githubusercontent.com/75336529/125856872-3d161f72-4b16-49c4-a599-2165476b93e9.png)
 
-![c2](https://user-images.githubusercontent.com/75336529/125863601-43c25a2c-b4ed-4a58-982e-b1cee4f855bc.png)
-
-Calculamos la corriente Ix con el resultado de mallas.
-
-![c3](https://user-images.githubusercontent.com/75336529/125863596-b4e89178-2c12-4c4f-8220-186b84e26bc6.png)
-
-Calculamos el voltaje VA con los resultados de mallas
-
-![c4](https://user-images.githubusercontent.com/75336529/125863598-02483a6e-5000-42c0-8930-817d94d57420.png)
+![c2](https://user-images.githubusercontent.com/75336529/125873563-59213493-7154-4719-ae92-fad49323e482.png)
 
 Hacemos que la fuente de 12v se cortocircuite.
 
 ![4](https://user-images.githubusercontent.com/75336529/125846311-b48011f8-41b7-4dd2-889c-a8a9e3d63585.png)
+
+Utilizamos el metodo de mallas para resolver.
+
+![7](https://user-images.githubusercontent.com/75336529/125868398-2587591f-aafd-4efa-aa43-c5adaaa8d175.png)
+
+![c3](https://user-images.githubusercontent.com/75336529/125873757-adac338e-879b-41fe-a1e8-1fc261ca9a9c.png)
+
+![c4](https://user-images.githubusercontent.com/75336529/125874038-0d796b43-2cb1-478e-89eb-7038089e8729.png)
+
+Calculamos el Ix total y el VA total
+
+![c5](https://user-images.githubusercontent.com/75336529/125874040-548d8e46-0146-4945-b885-9f6d32e8a994.png)
+
+**4.2 Calculo del error**
+
+Corriente
+
+![c6](https://user-images.githubusercontent.com/75336529/125874033-8bcdd56f-c016-4595-baf7-50cc0730a824.png)
+
+Voltaje
+
+![c7](https://user-images.githubusercontent.com/75336529/125874036-f914411b-16d1-48ca-8fd4-772ea5d02e02.png)
 
 **5.-VIDEO**
 
