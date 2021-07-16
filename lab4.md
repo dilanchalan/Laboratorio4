@@ -23,13 +23,14 @@
 **DOCENTE:**
 Ing. Darwin Alulema
 
-
-
 **1.-OBJETIVOS**
 
 General
 
+
+
 Especificos
+
 
 **2.-MARCO TEÓRICO**
 
@@ -56,16 +57,34 @@ Especificos
 
 ![1](https://user-images.githubusercontent.com/75336529/125838250-9a2d17e3-6054-4b94-bdab-f2a774843d42.png)
 
-
+![11](https://user-images.githubusercontent.com/75336529/125889124-ee50a0b7-6007-4ea3-b437-78256e22b415.png)
 
 3.2.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 3.1 y 3.2 respectivamente.
 
+![8](https://user-images.githubusercontent.com/75336529/125889126-53a62676-53f6-4507-af38-91e1f68020db.png)
+
 3.2.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 3.1 y 3.2 respectivamente.
+
+![10](https://user-images.githubusercontent.com/75336529/125889123-32883391-a67f-4547-ab6f-4cd46c739b18.png)
 
 3.2.4  Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 3.1 y 3.2 respectivamente.
 
+![9](https://user-images.githubusercontent.com/75336529/125889115-4a3b27c7-ec21-44a7-9156-feb3e7c15c22.png)
+
 3.2.5 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones. 
 
+Tabla 3.1 :Medicion de voltaje aplicando super posicion
+|V | Voltaje total| V|Voltaje VA V2=0 |V |voltaje VA V1=0|
+|---|---|---|---|---|---|
+|calculado|medido|calculado|medido|calculado|medido|
+|0.9584|0.952|7.4784|7.48|6.52|6.53|
+
+
+Tabla 3.2 :Medicion de corriente aplicando super posicion
+|Ix | Corriente total|mA|Corriente VA V2=0 |mA|Corriente VA V1=0|
+|---|---|---|---|---|---|
+|calculado|medido|calculado|medido|calculado|medido|
+|25.53|25.5|0|0|25.53|25.5|
 
 **4.-RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
