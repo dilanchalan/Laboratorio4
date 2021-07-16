@@ -56,6 +56,8 @@ Especificos
 
 ![1](https://user-images.githubusercontent.com/75336529/125838250-9a2d17e3-6054-4b94-bdab-f2a774843d42.png)
 
+
+
 3.2.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 3.1 y 3.2 respectivamente.
 
 3.2.3 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 3.1 y 3.2 respectivamente.
@@ -115,6 +117,18 @@ Voltaje
 
 **5.-VIDEO**
 
+https://www.youtube.com/watch?v=NHwqBmoarho
+
 **6.-CONCLUSIONES**
 
+Concluimos que el teorema de superposición es fundamental entenderlo para el análisis correcto de cualquier circuito presentando que se presente con dos o más fuentes.
+
+Es claro que al realizar la simulación del circuito hemos llegado a la conclusión de que al utilizar el teorema podemos trabajar con circuitos con más de una fuente de carga conectada a él.
+
+Aprendimos que para realizar este análisis debemos seguir los pasos estudiados y al final hacer la suma algebraica de nuestras fuentes.
+
 **7.-BIBLIOGRAFIA**
+
+A. (2020, 3 julio). Teorema de superposición. Electrónica Unicrom. https://unicrom.com/teorema-de-superposicion/
+
+C. (2020b, agosto 26). Principio de superposición – Análisis de circuitos eléctricos. dademuchconnection. https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
